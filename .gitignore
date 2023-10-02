@@ -1,0 +1,6 @@
+data/*
+elasticsearch/*
+kibana/*
+log/*
+nf.*
+docker-compose.bkp.*
