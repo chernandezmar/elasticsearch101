@@ -1,6 +1,7 @@
-data/*
-elasticsearch/*
-kibana/*
-log/*
-nf.*
-docker-compose.bkp.*
+*.csv
+elasticsearch/
+kibana/
+log/
+*.txt
+*bkp*
+procesa_csv_filtrocsv*
